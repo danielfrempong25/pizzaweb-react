@@ -1,0 +1,30 @@
+.sizes{
+	width: 50px;
+	height: 50px;
+	background-color:darkgray !important;
+	margin: 5px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50%;
+}
+
+.card img{
+	height: 300px;
+
+}
+
+.card{
+	position: relative;
+}
+
+.card .fs{
+	position: absolute;
+	top: 0;
+	right: 0;
+/*	background-color: rgba(0, 0, 0, 0.2);*/
+text-shadow: 2px 2px 0 black;
+	color: white;
+	padding: 0.5rem 1.5rem;
+
+}

@@ -1,0 +1,33 @@
+
+body{
+	background-image: url(https://images.pexels.com/photos/1630344/pexels-photo-1630344.jpeg?cs=srgb&dl=pexels-snack-toronto-1630344.jpg&fm=jpg&_gl=1*aha0c2*_ga*MTAyMjIyMjkxNS4xNjY2MTAxMzg4*_ga_8JE65Q40S6*MTY3MzI4NjQxMy4xOC4xLjE2NzMyODY0MzAuMC4wLjA.);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+.SHOEGASM{
+	color: white;
+	font-size: 40px;
+
+}
+
+
+.header{
+	font-size: 30px;
+	color: white;
+
+}
+
+
+.img{
+	background-image: url();
+	height: 300px;
+	width: 300px;
+}
+
+
+
+
+
+

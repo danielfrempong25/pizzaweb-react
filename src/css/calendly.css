@@ -1,0 +1,15 @@
+
+.we h4{
+	position: relative;
+}
+
+.sv{
+	background-color: blue;
+	padding: 5px;
+	border-radius: 50%;
+	font-size: .75rem;
+	color: white;
+	position: absolute;
+	left: -20px;
+	top: 3.5px;
+}

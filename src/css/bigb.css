@@ -1,0 +1,17 @@
+div{
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/66/Tokyo_Skyline20210123.jpg);
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+	position: relative;
+}
+
+
+img{
+	position: absolute;
+	right:10px;
+	top: 10px;
+	width: 1000px;
+	
+}
+
